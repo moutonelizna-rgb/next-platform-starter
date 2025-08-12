@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Namsa Transport — Reliable Freight & Logistics</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0; padding: 0; background: #f9f9f9; color: #222;
+      line-height: 1.6;
+    }
+    header {
+      background: #004080;
+      color: #fff;
+      padding: 1rem 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+      letter-spacing: 1px;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #004080;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      font-size: 1.1rem;
+    }
+    footer {
+      background: #222;
+      color: #eee;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+    a.button {
+      display: inline-block;
+      background: #004080;
+      color: white;
+      padding: 0.5rem 1rem;
+      text-decoration: none;
+      border-radius: 3px;
+      margin-top: 1rem;
+      transition: background 0.3s ease;
+    }
+    a.button:hover {
+      background: #003060;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Namsa Transport</h1>
+    <p>Reliable Freight & Logistics — South Africa & Namibia</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>
+        Founded in 2025 by two best friends from South Africa and Namibia, Namsa Transport
+        delivers dependable freight services across the region. We pride ourselves on
+        punctuality, safety, and exceptional customer care.
+      </p>
+    </section>
+
+    <section>
+      <h2>Our Services</h2>
+      <ul>
+        <li>Long-haul trucking</li>
+        <li>Regional deliveries</li>
+        <li>Custom logistics solutions</li>
+        <li>Real-time shipment tracking</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact Us</h2>
+      <p>
+        Ready to move your goods? Reach out to us today:
+      </p>
+      <p><strong>Email:</strong> <a href="mailto:info@namsatransport.co.za">info@namsatransport.co.za</a></p>
+      <p><strong>Phone:</strong> +27 123 456 7890</p>
+      <a href="mailto:info@namsatransport.co.za" class="button">Email Us Now</a>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Namsa Transport. All rights reserved.
+  </footer>
+</body>
+</html>
